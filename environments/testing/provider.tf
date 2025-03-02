@@ -1,6 +1,6 @@
 terraform {
   cloud {
-    organization = "your-org-name"
+    organization = "aaronromeo"
     workspaces {
       name = "postmanpat-testing"
     }
